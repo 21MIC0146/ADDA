@@ -1,0 +1,10 @@
+1. Table Creation:
+Challenge: As I was new in buiding a website, I faced difficulty while creatings tables using html.
+Solution: I tried seeing the course materials and tried different border styles before implementing on the webpage.
+
+
+2. Legal Compliance:
+
+Challenge: Ensuring that the terms and conditions and privacy policy comply with relevant laws and regulations is challenging.
+Solution: I searched about what laws an online school website should legally obey before making it available to the users.
+

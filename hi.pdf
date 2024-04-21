@@ -1,0 +1,41 @@
+<!DOCTYPE html>: This declaration specifies the document type and version of HTML being used. It helps the browser to render the HTML content correctly.
+
+<html lang="en">: The root element of an HTML page. The lang attribute is used to declare the language of the document.
+
+<head>: Contains meta-information about the HTML document, such as character set, title, linked stylesheets, and more.
+
+<meta charset="UTF-8">: Specifies the character encoding for the document as UTF-8.
+<meta http-equiv="X-UA-Compatible" content="IE=edge">: Instructs Internet Explorer to use its latest available rendering engine.
+<meta name="viewport" content="width=device-width, initial-scale=1.0">: Sets the viewport properties for responsive design.
+<title>: Defines the title of the HTML document, which appears in the browser's title bar or tab.
+<body>: Contains the content of the HTML document.
+
+<nav>: Represents a navigation menu.
+
+<a>: Defines a hyperlink, linking to different pages or resources.
+
+<form>: Represents an HTML form for user input.
+
+role="search": Describes the role of the form, indicating that it is used for searching.
+
+<input type="search">: Creates a search input field.
+
+<button class="btn">: Defines a button for submitting the form.
+
+<ul> and <li>: Used to create an unordered list and list items, respectively.
+
+<h1>, <h4>, <h5>: Heading tags define headings of different levels. <h1> is the highest level, and <h5> is lower.
+
+<section>: Represents a thematic grouping of content, typically with a heading.
+
+<article>: Represents an independent piece of content, such as a news article or a blog post.
+
+<img>: Embeds an image in the document.
+
+<footer>: Represents the footer of a section or page.
+
+<small>: Defines smaller text.
+
+<div> in HTML is a container element used to group and structure content, allowing you to apply styles or scripts to the grouped elements collectively. It doesn't have a specific semantic meaning and is commonly used for layout purposes or to organize and group related elements on a webpage.
+
+<header> in HTML is a container element representing introductory content or a group of navigational links at the top of a webpage. It typically includes headings, logos, and other elements that provide context or aid in site navigation.
